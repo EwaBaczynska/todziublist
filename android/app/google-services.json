@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071157376342",
+    "project_id": "to-dziub-list",
+    "storage_bucket": "to-dziub-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071157376342:android:6f775cd23c43b7cb5ed2f7",
+        "android_client_info": {
+          "package_name": "com.ewabaczynska.todziublist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071157376342-c98q33pr7oot6q6iaq3sukqhil9i0mvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ED1wlx0GpgfnrhE6Kryv8mlWyrkog98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071157376342-c98q33pr7oot6q6iaq3sukqhil9i0mvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
